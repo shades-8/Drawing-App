@@ -1,0 +1,3 @@
+In this version we have done the following steps as below :
+
+1. We have added a progress dialog while saving the image to local storage and done all programmatically steps. 
